@@ -5,17 +5,17 @@
                     <div class="col-lg-3 col-md-5 col-sm-6 col-12">
                         <div class="footer-widget">
                             <div class="navbar-brand">
-                                <a href="index.html">
+                                <a href="index.php">
                                     <img src="assets/img/logo2.png" alt="Logo" />
                                 </a>
                             </div>
                             <p>You can dream, create, design, and build the most wonderful place.</p>
                             <div class="contact-info">
                                 <div class="content">
-                                    <a href="tel:+0123456987"><i class='bx bx-phone'></i>+0123 456 987</a>
+                                    <a href="tel:9991219131"><i class='bx bx-phone'></i>9991219131</a>
                                 </div>
                                 <div class="content">
-                                    <a href="https://templates.hibootstrap.com/cdn-cgi/l/email-protection#cca4a9a0a0a38ca6adb9a2b8e2afa3a1"><i class='bx bx-envelope'></i><span class="__cf_email__" data-cfemail="19717c7575765973786c776d377a7674">[email&#160;protected]</span></a>
+                                    <a href="mailto:contacto@clubdeyatesyucatan.com"><i class='bx bx-envelope'></i>contacto@clubdeyatesyucatan.com</a>
                                 </div>
                                 <div class="content">
                                     <a href="#"><i class='bx bx-map'></i>Mon-Fri: 8 AM – 7 PM</a>
@@ -56,7 +56,7 @@
                                     <a href="team.html">Our Team</a>
                                 </li>
                                 <li>
-                                    <a href="contact.html">Contact Us</a>
+                                    <a href="contacto">Contact Us</a>
                                 </li>
                             </ul>
                         </div>
@@ -125,5 +125,5 @@
     <script src="assets/js/script.js"></script>
 
 </body>
-<!-- Mirrored from templates.hibootstrap.com/jaunt/default/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 04 Aug 2021 03:58:58 GMT -->
+<!-- Mirrored from templates.hibootstrap.com/jaunt/default/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 04 Aug 2021 03:58:58 GMT -->
 </html>

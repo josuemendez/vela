@@ -11,7 +11,7 @@
                         <div class="contact-info">
                             <div class="content">
                                 <i class='bx bx-phone'></i>
-                                <a href="tel:+0123456987">+0123 456 987</a>
+                                <a href="tel:9991219131">9991219131</a>
                             </div>
                             <div class="content">
                                 <i class='bx bx-envelope'></i>
@@ -57,8 +57,8 @@
                     </div>-->
                             </div>
                             <div class="item">
-                                <a href="#" class="btn-secondary">
-                  Registrarse <i class='bx bx-log-in-circle'></i>
+                                <a href="registro.php" class="btn-secondary">
+                  Registro <i class='bx bx-log-in-circle'></i>
                   </a>
                             </div>
                             <!--<div class="item">
@@ -84,32 +84,39 @@
                 <div class="container">
                     <div class="main-responsive-menu">
                         <div class="logo">
-                            <a href="index.html">
+                            <a href="index.php">
                                 <img src="assets/img/logo1.png" alt="logo">
                             </a>
                         </div>
-                        <div class="cart responsive">
-                            <a href="cart.html" class="cart-btn"><i class='bx bx-cart'></i>
-                <span class="badge">0</span>
-                </a>
-                        </div>
+                        
                     </div>
                 </div>
             </div>
             <div class="main-nav">
                 <div class="container">
                     <nav class="navbar navbar-expand-md navbar-light">
-                        <a class="navbar-brand" href="index.html">
+                        <a class="navbar-brand" href="index.php">
                             <img src="assets/img/logo1.png" alt="Logo">
                         </a>
                         <div class="collapse navbar-collapse mean-menu">
                             <ul class="navbar-nav ms-auto">
                                 <li class="nav-item">
-                                    <a href="#" class="nav-link active toggle">Inicio<i class='bx bxs-chevron-down'></i></a>
+                                    <a href="#" class="nav-link active toggle">Inicio</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="nav-link">Incripciones<i class='bx bxs-chevron-down'></i></a>
-                                </li>
+                  <a href="#" class="nav-link toggle">Inscripciones<i class='bx bxs-chevron-down'></i></a>
+                  <ul class="dropdown-menu">
+                    <li class="nav-item">
+                      <a href="index.php" class="nav-link">Registro</a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="index-2.html" class="nav-link">Pagos</a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="index-3.html" class="nav-link">Envia comprobante</a>
+                    </li>
+                  </ul>
+                </li>
                                 <li class="nav-item">
                                     <a href="team.html" class="nav-link">Calendario</a>
                                 </li>
@@ -120,7 +127,7 @@
                                     <a href="booking.html" class="nav-link">Resultados</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="contact.html" class="nav-link">Contact</a>
+                                    <a href="contacto" class="nav-link">Contacto</a>
                                 </li>
                         </div>
                     </nav>

@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="Author: interjmex, Category: vela, sail" />
-    <title>Jaunt - Travel & Tour Booking HTML Template</title>
+    <title>Regata Copa Bicentenario Yucatán 2021</title>
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/css/fontawesome.css" />
     <link rel="stylesheet" href="assets/css/boxicons.min.css">
