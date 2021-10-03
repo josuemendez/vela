@@ -14,55 +14,30 @@
                 <div class="col-lg-6">
                     <div class="about-content mb-30">
                         <h2>
-                            Información
+                           Bienvenidos
                         </h2>
                         <h6>
-                        de la regata
+                        a la página oficial del
                         </h6>
                         <p>
-                        200 años de la armada de México.
+                        <strong>Club de Yates y Vela de Yucatán A.C.</strong>
                         </p>
                         <div class="row">
-                            <div class="col-lg-6 col-md-6">
-                                <div class="content-list">
-                                    <i class='bx bx-check-shield'></i>
-                                    <h6>del 15 al 17 de octubre de 2021</h6>
-                                </div>
+                            <div class="col-lg-12 col-md-12">
+                              
+                            <p>Este sitio fue diseñado con el propósito de mantener un vínculo de comunicación e información constante y  seria para los asociados del club y el público en general que tenga interés en los deportes a vela y las actividades que realizamos en la mar como veleristas.</p>
+
+
                             </div>
-                            <div class="col-lg-6 col-md-6">
-                                <div class="content-list">
-                                    <i class='bx bx-donate-heart'></i>
-                                    <h6>Club de Yates Yucatán</h6>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-6">
-                                <div class="content-list">
-                                    <i class='bx bx-time'></i>
-                                    <h6>Optimist / BicTecho / Laser</h6>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-6">
-                                <div class="content-list">
-                                    <i class='bx bx-station'></i>
-                                    <h6>Laser Radial / Iqfoil / Zeasail</h6>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-6">
-                                <div class="content-list">
-                                    <i class='bx bx-like'></i>
-                                    <h6>Hobie 16 / C420 / J24</h6>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-6">
-                                <div class="content-list">
-                                    <i class='bx bx-support'></i>
-                                    <h6>Yates / Kitesurf</h6>
-                                </div>
-                            </div>
+                            
+                            
+                            
+                            
+                            
                         </div>
                         <div class="about-btn">
-                            <a href="assets/docs/aviso.pdf" class="btn-primary">Aviso de Regata</a>
-                            <a href="registro.php" class="btn-primary">Registro</a>
+                            <a href="informacion.php" class="btn-primary">Leer más</a>
+                           
                         </div>
                     </div>
                 </div>

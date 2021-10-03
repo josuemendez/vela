@@ -7,7 +7,7 @@
         <div class="top-header-area">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-xl-6 col-lg-7">
+                    <div class="col-xl-8 col-lg-8">
                         <div class="contact-info">
                             <div class="content">
                                 <i class='bx bx-phone'></i>
@@ -15,52 +15,18 @@
                             </div>
                             <div class="content">
                                 <i class='bx bx-envelope'></i>
-                                <a href="mailto:#">contacto@clubdeyatesyucatan.com</a>
+                                <a href="mailto:#">informacion@clubdeyatesyucatan.com</a>
                             </div>
                             <div class="content">
                                 <i class='bx bx-map'></i>
-                                <a href="#">Club de Yates - Yucatán</a>
+                                <a href="#">Club de Yates y Vela de Yucatán</a>
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-6 col-lg-5">
+                    <div class="col-xl-4 col-lg-4">
                         <div class="side-option">
-                            <div class="item">
-                                <!--<div class="language">
-                    <a href="#language" id="languageButton" class="btn-secondary">
-                    Language <i class='bx bxs-chevron-down'></i>
-                    </a>
-                    <ul class="menu">
-                    <li class="menu-item">
-                    <a href="#" class="menu-link">
-                    <img src="assets/img/flag-uk.png" alt="flag">
-                    English
-                    </a>
-                    </li>
-                    <li class="menu-item"><a href="#" class="menu-link">
-                    <img src="assets/img/flag-germany.png" alt="flag">
-                    Deutsch</a>
-                    </li>
-                    <li class="menu-item">
-                    <a href="#" class="menu-link">
-                    <img src="assets/img/flag-jordan.png" alt="flag">
-                    العربية
-                    </a>
-                    </li>
-                    <li class="menu-item">
-                    <a href="#" class="menu-link">
-                    <img src="assets/img/flag-china.png" alt="flag">
-                    中文
-                    </a>
-                    </li>
-                    </ul>
-                    </div>-->
-                            </div>
-                            <div class="item">
-                                <a href="registro.php" class="btn-secondary">
-                  Registro <i class='bx bx-log-in-circle'></i>
-                  </a>
-                            </div>
+                            
+                            
                             <!--<div class="item">
                   <a href="#searchBox" id="searchButton" class="btn-search" data-effect="mfp-zoom-in">
                   <i class='bx bx-search-alt'></i>
@@ -103,11 +69,11 @@
                                 <li class="nav-item">
                                     <a href="#" class="nav-link active toggle">Inicio</a>
                                 </li>
-                                <li class="nav-item">
+                           <!--     <li class="nav-item">
                   <a href="#" class="nav-link toggle">Inscripciones<i class='bx bxs-chevron-down'></i></a>
                   <ul class="dropdown-menu">
                     <li class="nav-item">
-                      <a href="index.php" class="nav-link">Registro</a>
+                      <a href="registro.php" class="nav-link">Registro</a>
                     </li>
                     <li class="nav-item">
                       <a href="index-2.html" class="nav-link">Pagos</a>
@@ -116,18 +82,21 @@
                       <a href="index-3.html" class="nav-link">Envia comprobante</a>
                     </li>
                   </ul>
-                </li>
+                </li>-->
                                 <li class="nav-item">
-                                    <a href="team.html" class="nav-link">Calendario</a>
+                                    <a href="" class="nav-link">Calendario 2020 - 21</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="testimonials.html" class="nav-link">Notificaciones</a>
+                                    <a href="" class="nav-link">Directiva</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="booking.html" class="nav-link">Resultados</a>
+                                    <a href="" class="nav-link">Asamblea 2020</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="contacto" class="nav-link">Contacto</a>
+                                    <a href="" class="nav-link">Copas</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="" class="nav-link">Contacto</a>
                                 </li>
                         </div>
                     </nav>
