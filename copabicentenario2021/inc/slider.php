@@ -8,14 +8,14 @@
         <div class="slider-item item-one">
           <div class="container">
             <div class="banner-content">
-            <span class="sub-title">Regata</span>
+            <span class="sub-title">&nbsp</span>
                         <h1>
-                            COPA BICENTENARIO
+                        &nbsp
                         </h1>
                         <p>
-                            "200 Años de la armada de México"
+                        &nbsp
                         </p>
-              <a href="registro.php" class="btn-primary">Registrarme</a>
+              <a href="registro.php" class="">&nbsp</a>
             </div>
 
 
@@ -25,28 +25,28 @@
         <div class="slider-item item-two">
           <div class="container">
           <div class="banner-content">
-            <span class="sub-title">Regata</span>
+            <span class="sub-title">&nbsp</span>
                         <h1>
-                            COPA BICENTENARIO
+                        &nbsp
                         </h1>
                         <p>
-                            "200 Años de la armada de México"
+                        &nbsp
                         </p>
-              <a href="registro.php" class="btn-primary">Registrarme</a>
+              <a href="registro.php" class="">&nbsp</a>
             </div>
           </div>
         </div>
         <div class="slider-item item-three">
           <div class="container">
           <div class="banner-content">
-            <span class="sub-title">Regata</span>
+            <span class="sub-title">&nbsp</span>
                         <h1>
-                            COPA BICENTENARIO
+                        &nbsp
                         </h1>
                         <p>
-                            "200 Años de la armada de México"
+                        &nbsp
                         </p>
-              <a href="registro.php" class="btn-primary">Registrarme</a>
+              <a href="registro.php" class="">&nbsp</a>
             </div>
           </div>
         </div>

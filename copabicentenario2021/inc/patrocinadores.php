@@ -2,37 +2,28 @@
     <div class="container">
       <div class="section-title">
         <h2>Patrocinadores</h2>
-        <p>Les agradecemus mucho en apoyar el Deporte de Vela.</p>
+        <p>Les agradecemos mucho en apoyar el Deporte de Vela.</p>
       </div>
-      <div class="row">
-        <div class="col-lg-4 col-md-6">
+
+ <div class="d-flex justify-content-center">
+   <div class="col-8 ">
+   <div class="row">
+        <div class="col-lg-12 col-md-12">
           <div class="item-single mb-30">
-            <div class="image">
-              <img src="assets/img/patrocinadores/1p.jpg" alt="Patrocinador" />
-            </div>
-            <div class="content text-center">
-              <div class="content">
-               
-                <div class="title">
-                  <h3>
-                  <a href="#">Yucalpeten Resort Marina</a>
-                  </h3>
-                </div>
-              
-              </div>
-            </div>
-            <div class="flip-content text-center">
-             
-              <h3>
-                <a href="#">Yucalpeten Resort Marina</a>
-              </h3>
-              
-             
-              
-            </div>
+          <video autoplay muted loop playsinline style="color: #dbdbdb" width="100%">
+<source src="https://f.hubspotusercontent20.net/hubfs/2540778/marina-yucalpeten/marina-yucalpeten-web-slider-landing.mp4" type="video/mp4">
+</video>
+            
           </div>
         </div>
-        <div class="col-lg-4 col-md-6">
+       
+        
+      </div>
+
+
+      <div class="row row-cols-2">
+      
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
           <div class="item-single mb-30">
             <div class="image">
               <img src="assets/img/patrocinadores/2p.jpg" alt="Patrocinador" />
@@ -40,26 +31,20 @@
             <div class="content text-center">
               <div class="content">
                
-                <div class="title">
-                  <h3>
-                  <a href="#">Coca Cola</a>
-                  </h3>
-                </div>
+               
               
               </div>
             </div>
             <div class="flip-content text-center">
              
-              <h3>
-                <a href="#">Coca Cola</a>
-              </h3>
+             
               
              
               
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6">
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
           <div class="item-single mb-30">
             <div class="image">
               <img src="assets/img/patrocinadores/3p.jpg" alt="Patrocinador" />
@@ -67,19 +52,13 @@
             <div class="content text-center">
               <div class="content">
                
-                <div class="title">
-                  <h3>
-                  <a href="#">Grupo Logra</a>
-                  </h3>
-                </div>
+               
               
               </div>
             </div>
             <div class="flip-content text-center">
              
-              <h3>
-                <a href="#">Grupo Logra</a>
-              </h3>
+             
               
              
               
@@ -87,5 +66,23 @@
           </div>
         </div>
       </div>
+      <div class="row">
+        
+        <div class="col-3 hover-fade" > <img src="assets/img/patrocinadores/4.jpg" alt="Patrocinador" /></div>
+        <div class="col-3 hover-fade"> <img src="assets/img/patrocinadores/5.jpg" alt="Patrocinador" /></div>
+        <div class="col-3 hover-fade"> <img src="assets/img/patrocinadores/6.jpg" alt="Patrocinador" /></div>
+        <div class="col-3 hover-fade"> <img src="assets/img/patrocinadores/7.jpg" alt="Patrocinador" /></div>
+      </div>
+      <div class="row">
+        <div class="col-3 hover-fade"> <img src="assets/img/patrocinadores/8.jpg" alt="Patrocinador" /></div>
+        <div class="col-3 hover-fade"> <img src="assets/img/patrocinadores/9.jpg" alt="Patrocinador" /></div>
+        <div class="col-3 hover-fade"> <img src="assets/img/patrocinadores/10.jpg" alt="Patrocinador" /></div>
+        <div class="col-3 hover-fade"> <img src="assets/img/patrocinadores/11.jpg" alt="Patrocinador" /></div>
+      </div>
+   </div>
+ </div>
+
+
+
     </div>
   </section>

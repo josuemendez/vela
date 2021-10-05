@@ -85,7 +85,7 @@
                     <div class="main-responsive-menu">
                         <div class="logo">
                             <a href="index.php">
-                                <img src="assets/img/logo1.png" alt="logo">
+                                <img width="120%" src="assets/img/logo1.png" alt="logo">
                             </a>
                         </div>
                         
