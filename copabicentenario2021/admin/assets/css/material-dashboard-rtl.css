@@ -9,6 +9,7 @@
  * http://gonjeshk.ir
  *
  */
+
 html[dir="rtl"] {
   text-align: right;
   direction: rtl;
@@ -37,16 +38,16 @@ html[dir="rtl"] .checkbox label {
   padding-left: inherit;
 }
 
-html[dir="rtl"] .btn-group > .btn:first-child:not(:last-child):not(.dropdown-toggle) {
+html[dir="rtl"] .btn-group>.btn:first-child:not(:last-child):not(.dropdown-toggle) {
   border-radius: 0 0.25rem 0.25rem 0;
 }
 
-html[dir="rtl"] .btn-group > .btn:last-child:not(:first-child),
-html[dir="rtl"] .btn-group > .dropdown-toggle:not(:first-child) {
+html[dir="rtl"] .btn-group>.btn:last-child:not(:first-child),
+html[dir="rtl"] .btn-group>.dropdown-toggle:not(:first-child) {
   border-radius: 0.25rem 0 0 0.25rem;
 }
 
-html[dir="rtl"] .btn-group > .btn-group:last-child:not(:first-child) > .btn:first-child {
+html[dir="rtl"] .btn-group>.btn-group:last-child:not(:first-child)>.btn:first-child {
   border-radius: 0.25rem 0 0 0.25rem;
 }
 
@@ -62,36 +63,36 @@ html[dir="rtl"] .custom-select {
   background-size: 8px 10px;
 }
 
-html[dir="rtl"] .input-group > .input-group-append:last-child > .btn:not(:last-child):not(.dropdown-toggle),
-html[dir="rtl"] .input-group > .input-group-append:last-child > .input-group-text:not(:last-child),
-html[dir="rtl"] .input-group > .input-group-append:not(:last-child) > .btn,
-html[dir="rtl"] .input-group > .input-group-append:not(:last-child) > .input-group-text,
-html[dir="rtl"] .input-group > .input-group-prepend > .btn,
-html[dir="rtl"] .input-group > .input-group-prepend > .input-group-text {
+html[dir="rtl"] .input-group>.input-group-append:last-child>.btn:not(:last-child):not(.dropdown-toggle),
+html[dir="rtl"] .input-group>.input-group-append:last-child>.input-group-text:not(:last-child),
+html[dir="rtl"] .input-group>.input-group-append:not(:last-child)>.btn,
+html[dir="rtl"] .input-group>.input-group-append:not(:last-child)>.input-group-text,
+html[dir="rtl"] .input-group>.input-group-prepend>.btn,
+html[dir="rtl"] .input-group>.input-group-prepend>.input-group-text {
   border-radius: 0 0.25rem 0.25rem 0;
 }
 
-html[dir="rtl"] .input-group > .input-group-append > .btn,
-html[dir="rtl"] .input-group > .input-group-append > .input-group-text,
-html[dir="rtl"] .input-group > .input-group-prepend:first-child > .btn:not(:first-child),
-html[dir="rtl"] .input-group > .input-group-prepend:first-child > .input-group-text:not(:first-child),
-html[dir="rtl"] .input-group > .input-group-prepend:not(:first-child) > .btn,
-html[dir="rtl"] .input-group > .input-group-prepend:not(:first-child) > .input-group-text {
+html[dir="rtl"] .input-group>.input-group-append>.btn,
+html[dir="rtl"] .input-group>.input-group-append>.input-group-text,
+html[dir="rtl"] .input-group>.input-group-prepend:first-child>.btn:not(:first-child),
+html[dir="rtl"] .input-group>.input-group-prepend:first-child>.input-group-text:not(:first-child),
+html[dir="rtl"] .input-group>.input-group-prepend:not(:first-child)>.btn,
+html[dir="rtl"] .input-group>.input-group-prepend:not(:first-child)>.input-group-text {
   border-radius: 0.25rem 0 0 0.25rem;
 }
 
-html[dir="rtl"] .input-group > .custom-select:not(:first-child),
-html[dir="rtl"] .input-group > .form-control:not(:first-child) {
+html[dir="rtl"] .input-group>.custom-select:not(:first-child),
+html[dir="rtl"] .input-group>.form-control:not(:first-child) {
   border-radius: 0.25rem 0 0 0.25rem;
 }
 
-html[dir="rtl"] .input-group > .custom-select:not(:last-child),
-html[dir="rtl"] .input-group > .form-control:not(:last-child) {
+html[dir="rtl"] .input-group>.custom-select:not(:last-child),
+html[dir="rtl"] .input-group>.form-control:not(:last-child) {
   border-radius: 0 0.25rem 0.25rem 0;
 }
 
-html[dir="rtl"] .input-group > .custom-select:not(:last-child):not(:first-child),
-html[dir="rtl"] .input-group > .form-control:not(:last-child):not(:first-child) {
+html[dir="rtl"] .input-group>.custom-select:not(:last-child):not(:first-child),
+html[dir="rtl"] .input-group>.form-control:not(:last-child):not(:first-child) {
   border-radius: 0;
 }
 
@@ -134,7 +135,7 @@ html[dir="rtl"] .modal-header .close {
   margin: -15px auto -15px -15px;
 }
 
-html[dir="rtl"] .modal-footer > :not(:first-child) {
+html[dir="rtl"] .modal-footer> :not(:first-child) {
   margin-right: .25rem;
 }
 
@@ -1188,7 +1189,8 @@ html[dir="rtl"] .off-canvas-sidebar nav .navbar-collapse {
   text-align: right;
 }
 
-html[dir="rtl"] .card .card-body, html[dir="rtl"] .card .card-footer {
+html[dir="rtl"] .card .card-body,
+html[dir="rtl"] .card .card-footer {
   direction: rtl;
 }
 
@@ -1200,16 +1202,15 @@ html[dir="rtl"] .card .card-body, html[dir="rtl"] .card .card-footer {
 }
 
 @media (min-width: 992px) {
-  html[dir="rtl"] .navbar-expand-lg > .container,
-  html[dir="rtl"] .navbar-expand-lg > .container-fluid {
+  html[dir="rtl"] .navbar-expand-lg>.container,
+  html[dir="rtl"] .navbar-expand-lg>.container-fluid {
     flex-wrap: nowrap;
   }
 }
 
 @media (max-width: 991px) {
-  html[dir="rtl"] [class*="navbar-expand-"] > .container,
-  html[dir="rtl"] [class*="navbar-expand-"] > .container-fluid {
+  html[dir="rtl"] [class*="navbar-expand-"]>.container,
+  html[dir="rtl"] [class*="navbar-expand-"]>.container-fluid {
     flex-direction: row-reverse;
   }
 }
-/*# sourceMappingURL=material-dashboard-rtl.css.map */
