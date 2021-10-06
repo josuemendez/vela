@@ -84,16 +84,19 @@
                   </ul>
                 </li>-->
                                 <li class="nav-item">
-                                    <a href="" class="nav-link">Calendario 2020 - 21</a>
+                                    <a href="" class="nav-link">Directiva</a>
                                 </li>
                                 <li class="nav-item">
                                     <a href="" class="nav-link">Directiva</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="" class="nav-link">Asamblea 2020</a>
+                                    <a href="" class="nav-link">Boutique el Marinero</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="" class="nav-link">Copas</a>
+                                    <a href="" class="nav-link">Escuela de Vela</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="" class="nav-link">Eventos</a>
                                 </li>
                                 <li class="nav-item">
                                     <a href="" class="nav-link">Contacto</a>

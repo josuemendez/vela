@@ -5,7 +5,7 @@
         <p>2020</p>
       </div>
       <div class="row">
-      <div class="col-lg-3 col-md-6 m-auto">
+      <div class="col-lg-6 col-md-6 m-auto">
           <div class="item-single mb-30">
             <div class="image">
               <img src="assets/img/actividad4.jpg" alt="Demo Image">
@@ -27,7 +27,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-3 col-md-6">
+        <div class="col-lg-6 col-md-6">
           <div class="item-single mb-30">
             <div class="image">
               <img src="assets/img/actividad1.jpg" alt="Demo Image">
@@ -49,50 +49,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-3 col-md-6">
-          <div class="item-single mb-30">
-            <div class="image">
-              <img src="assets/img/actividad2.jpg" alt="Demo Image">
-            </div>
-            <div class="content text-center">
-              
-              <h3>
-                <a href="#">17 al 19 de Julio de 2020</a>
-              </h3>
-             
-              <p>
-                Travesía Alacranes
-              </p>
-              <hr>
-              <div class="about-btn text-center">
-                            <a href="#" target="_Blank" class="btn-primary">Suspendido</a>
-                           
-                        </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-6 m-auto">
-          <div class="item-single mb-30">
-            <div class="image">
-              <img src="assets/img/actividad3.jpg" alt="Demo Image">
-            </div>
-            <div class="content text-center">
-              
-              <h3>
-                <a href="#">25 de Julio de 2020</a>
-              </h3>
-             
-              <p>
-                Regata Verano
-              </p>
-              <hr>
-              <div class="about-btn text-center">
-                            <a href="#" target="_Blank" class="btn-primary">Suspendido</a>
-                           
-                        </div>
-            </div>
-          </div>
-        </div>
+        
         
       </div>
     </div>

@@ -5,15 +5,45 @@
         <p>Les agradecemos mucho en apoyar el Deporte de Vela.</p>
       </div>
 
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
  <div class="d-flex justify-content-center">
    <div class="col-8 ">
    <div class="row">
         <div class="col-lg-12 col-md-12">
-          <div class="item-single mb-30">
-          <video autoplay muted loop playsinline style="color: #dbdbdb" width="100%">
-<source src="https://f.hubspotusercontent20.net/hubfs/2540778/marina-yucalpeten/marina-yucalpeten-web-slider-landing.mp4" type="video/mp4">
-</video>
-            
+        <div class="item-single mb-30">
+            <div class="image">
+              <img src="assets/img/patrocinadores/marina.jpg" alt="Patrocinador" />
+            </div>
+            <div class="content text-center">
+              <div class="content">
+               
+               
+              
+              </div>
+            </div>
+            <div class="flip-content text-center">
+             
+             
+              
+             
+              
+            </div>
           </div>
         </div>
        
