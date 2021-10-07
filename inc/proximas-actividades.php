@@ -8,7 +8,7 @@
       <div class="col-lg-6 col-md-6 m-auto">
           <div class="item-single mb-30">
             <div class="image">
-              <img src="assets/img/actividad4.jpg" alt="Demo Image">
+              <img src="assets/img/actividad4.jpg?v=1" alt="Demo Image">
             </div>
             <div class="content text-center">
               
@@ -30,20 +30,20 @@
         <div class="col-lg-6 col-md-6">
           <div class="item-single mb-30">
             <div class="image">
-              <img src="assets/img/actividad1.jpg" alt="Demo Image">
+              <img src="assets/img/actividad1.jpg?v=1" alt="Demo Image">
             </div>
             <div class="content text-center">
               
               <h3>
-                <a href="#">4 y 5 de Julio de 2020</a>
+                <a href="#">7 de octubre de 2021</a>
               </h3>
              
               <p>
-                Regata Sherwin Williams
+                Apasionados por la Vela
               </p>
               <hr>
-              <div class="about-btn text-center">
-                            <a href="#" target="_Blank" class="btn-primary">Suspendido</a>
+             <div class="about-btn text-center">
+                            <a href="tel:9991219131" target="_Blank" class="btn-primary">Apartar</a>
                            
                         </div>
             </div>

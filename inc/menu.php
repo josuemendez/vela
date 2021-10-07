@@ -86,9 +86,7 @@
                                 <li class="nav-item">
                                     <a href="" class="nav-link">Directiva</a>
                                 </li>
-                                <li class="nav-item">
-                                    <a href="" class="nav-link">Directiva</a>
-                                </li>
+                            
                                 <li class="nav-item">
                                     <a href="" class="nav-link">Boutique el Marinero</a>
                                 </li>
