@@ -1438,17 +1438,20 @@ textarea.form-control {
 
 .home-banner-area.home-style-three .owl-carousel .slider-item.item-one {
   background: url(../img/banner/main-slider1.jpg) no-repeat center;
-  background-size: cover
+  background-size: cover;
+  height: 100vh;
 }
 
 .home-banner-area.home-style-three .owl-carousel .slider-item.item-two {
   background: url(../img/banner/main-slider2.jpg) no-repeat center;
-  background-size: cover
+  background-size: cover;
+  height: 100vh;
 }
 
 .home-banner-area.home-style-three .owl-carousel .slider-item.item-three {
   background: url(../img/banner/main-slider3.jpg) no-repeat center;
-  background-size: cover
+  background-size: cover;
+  height: 100vh;
 }
 
 .home-banner-area.home-style-three .owl-carousel .owl-item.active .banner-content {
